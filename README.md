@@ -2,6 +2,8 @@
 
 ## [Click here launch Colab Notebook](https://bit.ly/2XEucGG): https://bit.ly/2XEucGG
 
+## Please note you need a google account to start a colab kernel.
+
 This is a talk for the June 2019 SIIM meeting on Exploratory Data Analysis.
 
 We explored the dataset from the [RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge).
